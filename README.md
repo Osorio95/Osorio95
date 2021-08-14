@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Osorio95
+- 👀 I’m interested in a lot of things, from videogames to modeling, level and game design to programming and web developing
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to collaborate on a web page
+- 📫 How to reach me throug d.psicosorio@gmail.com
