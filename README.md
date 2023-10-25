@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Osorio95
-- 👀 I’m interested in a lot of things, from videogames to psychology, game design to programming and web developing
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on a web page
+![Greetings](/header.png)
+
+- 👀 I’m interested in a lot of things, from programing to psychology, videogames and much more.
+- 🌱 I’m currently a mid level web dev
 - 📫 How to reach me through d.psicosorio@gmail.com
