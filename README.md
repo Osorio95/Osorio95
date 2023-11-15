@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in a lot of things, from programing to psychology, videogames and much more.
 - 🌱 I’m currently a mid level web dev
-- 📫 How to reach me through d.psicosorio@gmail.com
+- 📫 How to reach me through david.lml.95@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osorio95&theme=react&show_icons=true&hide_border=true)
+[![wakatime](https://wakatime.com/badge/user/4b8537a5-58df-4fd9-8c65-f864c5c3136a.svg?style=flat-square)](https://wakatime.com/@4b8537a5-58df-4fd9-8c65-f864c5c3136a)
   
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
